@@ -1263,6 +1263,9 @@ ul {
 /* ================= SMALL MOBILE ================= */
 
 @media (max-width: 640px) {
+  .hero-left .hero-title {
+    font-size: 60px;
+  }
   .hero-left .main-title h1 {
     font-size: 55px;
     line-height: 60px;
